@@ -1,0 +1,15 @@
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\DbTest.exe.config
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\DbTest.exe
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\DbTest.pdb
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\DbLibrary2.dll
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.dll
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\DbLibrary2.pdb
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.xml
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\obj\Debug\DbTest.csprojResolveAssemblyReference.cache
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\obj\Debug\DbTest.exe
+C:\Users\khoramus\Desktop\DbLibrary old2\DbTest\obj\Debug\DbTest.pdb

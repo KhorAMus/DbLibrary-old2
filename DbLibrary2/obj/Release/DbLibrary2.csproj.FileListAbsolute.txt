@@ -1,0 +1,12 @@
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\DbLibrary2.dll.config
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\DbLibrary2.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\DbLibrary2.pdb
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.xml
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\obj\Release\DbLibrary2.dll
+C:\Users\khoramus\Documents\Visual Studio 2015\Projects\DbLibrary\DbLibrary2\obj\Release\DbLibrary2.pdb
