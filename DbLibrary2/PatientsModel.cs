@@ -102,11 +102,10 @@ namespace DbLibrary2
     {
         public long Id { get; set; }
 
-        public virtual Complaints Complaints { get; set; }
-
-        public virtual ICollection<Diagnosis> Diagnosis { get; set; }
-
-        public virtual Comment Comments { get; set; }
+        public string Complaints { get; set; }
+        public string Comments { get; set; }
+        public string Conclusion { get; set; }
+        public virtual ICollection<Diagnosis> Diagnosis { get; set; }       
 
         public virtual ICollection<Picture> Pictures { get; set; }
 
@@ -125,12 +124,6 @@ namespace DbLibrary2
         public long HistoryNoteId { get; set; }
         public virtual HistoryNote HistoryNote { get; set; }
     }
-    public class Complaints
-    {
-        public long Id { get; set; }
-        public string Note { get; set; }
-        public virtual HistoryNote HistoryNote { get; set; }
-    }
     public class Diagnosis
     {
         public long Id { get; set; }
@@ -139,19 +132,6 @@ namespace DbLibrary2
         public string Icd { get; set; }
         public long HistoryNoteId { get; set; }
         public virtual HistoryNote HistoryNote { get; set; }
-    }
-    public class Conclusion
-    {
-        public long Id { get; set; }
-        public string Note { get; set; }
-        public virtual HistoryNote HistoryNote { get; set; }
-    }
-    public class Comment
-    {
-        public long Id { get; set; }
-        public string Note { get; set; }
-        public virtual HistoryNote HistoryNote { get; set; }
-
     }
     public class Doctor
     {
